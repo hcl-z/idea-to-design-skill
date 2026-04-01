@@ -1,6 +1,6 @@
 ---
-name: idea-to-ui-design-skill
-description: Use when a user has a rough idea for a web or app product and needs help turning it into frontend UI and interaction design,includes pages, flows, layouts, states, and visual direction before implementation.
+name: idea-to-ui-design
+description: Use when a user has a rough idea for a web or app product and needs help turning it into frontend UI and interaction design, includes pages, flows, layouts, states, and visual direction before implementation.
 ---
 
 # Idea To Design Skill
